@@ -7,13 +7,20 @@ The application is deployed and accessible via the following link:
 ## Screenshots
 
 ### Login Page
-![Login Page](https://your-image-hosting-link.com/login-page.png)
-
-### User Management Dashboard
-![User Management Dashboard](https://your-image-hosting-link.com/user-dashboard.png)
+![Login Page](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1391).png)
 
 ### Analytics Dashboard
-![Analytics Dashboard](https://your-image-hosting-link.com/analytics-dashboard.png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1392).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1393).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1394).png)
+
+### User Management Dashboard
+![User Management Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1395).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1396).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1397).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1398).png)
+![Analytics Dashboard](https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application/blob/main/Screenshot%20(1399).png)
+
 
 
 ## Description
