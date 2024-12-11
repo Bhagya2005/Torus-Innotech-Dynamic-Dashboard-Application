@@ -2,7 +2,7 @@
 
 ## Deployment
 The application is deployed and accessible via the following link:
-[Dynamic Dashboard Website](https://your-deployed-site-link.com)
+[https://dynamic-dashboard-application-bhagya-patel.vercel.app/](https://dynamic-dashboard-application-bhagya-patel.vercel.app/)
 
 ## Screenshots
 
