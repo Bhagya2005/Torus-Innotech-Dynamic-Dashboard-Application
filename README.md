@@ -1,4 +1,4 @@
-# Dynamic Dashboard Application
+# Torus-Innotech-Dynamic-Dashboard-Application
 
 ## Deployment
 The application is deployed and accessible via the following link:
@@ -91,7 +91,7 @@ Make sure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dynamic-dashboard.git
+   git clone https://github.com/Bhagya2005/Torus-Innotech-Dynamic-Dashboard-Application
    cd dynamic-dashboard
    ```
 2. Install dependencies:
