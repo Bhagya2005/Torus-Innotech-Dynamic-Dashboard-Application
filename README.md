@@ -4,6 +4,10 @@
 The application is deployed and accessible via the following link:
 [https://dynamic-dashboard-application-bhagya-patel.vercel.app/](https://dynamic-dashboard-application-bhagya-patel.vercel.app/)
 
+##For Login
+Email - admin@example.com
+password - admin123
+
 ## Screenshots
 
 ### Login Page
