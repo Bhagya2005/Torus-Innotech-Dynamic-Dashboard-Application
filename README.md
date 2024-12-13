@@ -1,4 +1,4 @@
-# Torus-Innotech-Dynamic-Dashboard-Application
+# Dynamic-Dashboard-Application
 
 ## Deployment
 The application is deployed and accessible via the following link:
